@@ -56,6 +56,10 @@
             <span>
                 <a href="https://github.com/WishMelz/tFile">TG视频/图片床</a>
             </span>
+            |
+            <span>
+                <a href="https://github.com/WishMelz/gFile">免费文件储存</a>
+            </span>
         </footer>
     </div>
 </template>
